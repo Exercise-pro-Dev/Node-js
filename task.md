@@ -53,7 +53,7 @@ Having everything prepared for the application, you finally:
 You see that the application is not accessible through the
 browser, because all ports are closed on the server. So you:
 
-* Open the correct port on Droplet/EC2
+* Open the correct port on Digital ocean /EC2
 * and access the UI from browser
 
 GoodLucK! K.Bonty
